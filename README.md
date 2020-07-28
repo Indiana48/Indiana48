@@ -1,8 +1,8 @@
-### Hi there 👋 I'm Indy! 
-
 <h1 align="center">
  <img src="https://i.ibb.co/Hh1wM10/Git-banner.png" />
 </h1>
+
+### Hi there 👋 I'm Indy! 
 
 I'm a professional Digital Content Creator based in London. </p>
 
