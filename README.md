@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://i.ibb.co/Hh1wM10/Git-banner.png" />
+ <img src="https://raw.githubusercontent.com/Indiana48/Indiana48/master/Git-banner.png"/>
 </h1>
 
 ### Hi there 👋 I'm Indy! 
