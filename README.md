@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Indy! 
 
-<p><img src="https://i.ibb.co/Hh1wM10/Git-banner.png" alt="Welcome to my Github!" border="0"></p>
+<h1 align="center">
+ <img src="https://i.ibb.co/Hh1wM10/Git-banner.png" />
+</h1>
 
 I'm a professional Digital Content Creator based in London. </p>
 
